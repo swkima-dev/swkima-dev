@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 # 🪬 GitHub Stats
 
 <p align="left"> 
-  <img alt="GitHub Stats" width="61%" src="https://github-readme-stats-ebon-six-97.vercel.app/api?username=swkima-dev&theme=tokyonight&count_private=true&show_icons=true" />
-  <img alt="Top Langs" width="37%" src="https://github-readme-stats-ebon-six-97.vercel.app/api/top-langs/?username=swkima-dev&theme=tokyonight&layout=compact&langs_count=10&count_private=true" />
+  <img alt="GitHub Stats" height=200　width="61%" src="https://github-readme-stats-ebon-six-97.vercel.app/api?username=swkima-dev&theme=tokyonight&count_private=true&show_icons=true" />
+  <img alt="Top Langs" height=200　width="37%" src="https://github-readme-stats-ebon-six-97.vercel.app/api/top-langs/?username=swkima-dev&theme=tokyonight&layout=compact&langs_count=10&count_private=true" />
 </p>
