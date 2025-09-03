@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 # 🪬 GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats-ebon-six-97.vercel.app/api?username=swkima-dev&theme=tokyonight)](https://github.com/swkima-dev/github-readme-stats)
+![Top Langs](https://github-readme-stats-ebon-six-97.vercel.app/api/top-langs/?username=swkima-dev&theme=tokyonight&layout=compact)
