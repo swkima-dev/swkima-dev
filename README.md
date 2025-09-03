@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **swkima-dev/swkima-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats-ebon-six-97.vercel.app/api?username=swkima-dev)](https://github.com/swkima-dev/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-ebon-six-97.vercel.app/api?username=swkima-dev?theme=tokyonight)](https://github.com/swkima-dev/github-readme-stats)
