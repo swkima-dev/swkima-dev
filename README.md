@@ -20,10 +20,7 @@ Here are some ideas to get you started:
 
 # 🪬 GitHub Stats
 
-<a href="https://github.com/swkima-dev/github-readme-stats">
-  <img height="200" align="center" src="https://github-readme-stats-ebon-six-97.vercel.app/api?username=swkima-dev&theme=tokyonight" />
-</a>
-<a href="https://github.com/swkima-dev/github-readme-stats">
-  <img height="200" align="center" src="https://github-readme-stats-ebon-six-97.vercel.app/api/top-langs/?username=swkima-dev&theme=tokyonight&layout=compact&langs_count=8" />
-</a>
-
+<p align="left"> 
+  <img alt="GitHub Stats" width="61%" src="https://github-readme-stats-ebon-six-97.vercel.app/api?username=swkima-dev&theme=tokyonight&count_private=true&show_icons=true" />
+  <img alt="Top Langs" width="37%" src="https://github-readme-stats-ebon-six-97.vercel.app/api/top-langs/?username=swkima-dev&theme=tokyonight&layout=compact&langs_count=8&count_private=true" />
+</p>
