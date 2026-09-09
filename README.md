@@ -1,26 +1,19 @@
-<!--
-**swkima-dev/swkima-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello! 👋
 
-Here are some ideas to get you started:
+I'm swkima, an undergraduate student working as an engineer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 📊 GitHub Summary
+### 🎓 Profile
 
-[![](https://raw.githubusercontent.com/swkima-dev/swkima-dev/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+- _Affiliation_: Tokyo University of Science, Faculty of Engineering
+- _Department_: Information and Computer Technology
+- _Currently_: Engineer and PM at [EpicAI](https://epicai.co.jp/).
+- _Spoken Languages_: Japanese (Native), English (Intermediate)
 
-[![](https://raw.githubusercontent.com/swkima-dev/swkima-dev/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/swkima-dev/swkima-dev/main/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+### 🗒 Articles
 
-# 🪬 GitHub Stats
+- Tech blog: [Zenn (Japanese)](https://zenn.dev/swkima)
+- CTF Writeups: [swkima's CTF Writeups](https://swkima-dev.github.io/ctf-writeups/)
 
-<p align="left"> 
-  <img alt="GitHub Stats" height=200　width="61%" src="https://github-readme-stats-ebon-six-97.vercel.app/api?username=swkima-dev&theme=tokyonight&count_private=true&show_icons=true&hide_border=true" />
-  <img alt="Top Langs" height=200　width="37%" src="https://github-readme-stats-ebon-six-97.vercel.app/api/top-langs/?username=swkima-dev&theme=tokyonight&layout=compact&langs_count=10&count_private=true&hide_border=true" />
-</p>
+### 📫 Contact
+
+- X: [@swkima_dev](https://x.com/swkima_dev)
